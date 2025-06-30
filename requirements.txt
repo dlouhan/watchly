@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+celery
+pymongo
+playwright
+pydantic
+pydantic-settings
+python-dotenv
+redis
+bs4
